@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Thompson",
+    "email": "michael.thompson@company.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "email": "sarah.williams@company.com",
+    "phone": "098-765-4321"
+  },
+  {
+    "id": 3,
+    "name": "David Brown",
+    "email": "david.brown@company.com",
+    "phone": "555-555-5555"
+  }
+]
